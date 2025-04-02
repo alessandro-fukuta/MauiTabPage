@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiTabPage", "MauiTabPage\MauiTabPage.csproj", "{8161EE56-E41F-4064-A5BD-788C08F3ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8161EE56-E41F-4064-A5BD-788C08F3ECFB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147FC246-B104-4EC2-8859-C96303BDDBA6}
+	EndGlobalSection
+EndGlobal

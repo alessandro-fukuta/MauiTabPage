@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTabPage.MenuPrincipal"
+             Title="MenuPrincipal">
+
+
+    <ContentPage Title="Home" IconImageSource="chef.png">
+        <StackLayout>
+            <Label Text="Pagina Principal" FontSize="30" 
+                   HorizontalTextAlignment="Center" />
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="Servicos" IconImageSource="tabs.png">
+        <StackLayout>
+            <Label Text="Pagina de Serviços" FontSize="30" 
+           HorizontalTextAlignment="Center" />
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="Sobre" IconImageSource="chef.png">
+        <StackLayout>
+            <Label Text="Sobre o APP" FontSize="30" 
+           HorizontalTextAlignment="Center" />
+        </StackLayout>
+    </ContentPage>
+    
+</TabbedPage>
